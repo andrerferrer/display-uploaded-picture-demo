@@ -16,7 +16,7 @@ This demo was created from [this one](https://github.com/andrerferrer/basic-phot
 
 ### Check it Locally
 ```sh
-gh_repository=''
+gh_repository='git@github.com:andrerferrer/display-uploaded-picture-demo.git'
 git clone $gh_repository demo
 cd demo
 bundle install
