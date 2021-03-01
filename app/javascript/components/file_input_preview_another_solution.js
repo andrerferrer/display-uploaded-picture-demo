@@ -1,5 +1,5 @@
 // This solution uses FileReader
-// https://developer.mozilla.org/en-US/docs/Web/API/FileReader#readAsDataURL%28%29
+// https://developer.mozilla.org/en-US/docs/Web/API/FileReader/readAsDataURL
 
 const fileInputPreviewAnotherSolution = () => {
   // Find the photo input
