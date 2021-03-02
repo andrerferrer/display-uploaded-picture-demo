@@ -4,7 +4,7 @@ This demo was created from [this one](https://github.com/andrerferrer/basic-phot
 
 [Check my other demos](https://github.com/andrerferrer/dedemos/).
 
-### If you want to check it Locally
+### If you want to check it locally
 ```sh
 gh_repository='git@github.com:andrerferrer/display-uploaded-picture-demo.git'
 git clone $gh_repository demo
